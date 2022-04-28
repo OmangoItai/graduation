@@ -27,3 +27,6 @@ plt.title("测试数据")
 plt.xlabel("并发请求量")
 plt.ylabel("延迟时间")
 plt.savefig("fake_data.jpg")
+
+
+print('hello')
